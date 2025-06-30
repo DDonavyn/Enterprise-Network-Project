@@ -1,2 +1,2 @@
 # Enterprise-Network-Project
-Small Enterprise Network Simulation – Cisco Packet Tracer (THIS PROJECT IS NOT FULLY OPTIMIZED OR DONE , I AM STILL WORKING ON SOME THINGS BUT I THOUGHT IT WOULD BE NICE TO GET SOME ADVICE/THOUGHTS)
+Small Enterprise Network Simulation – Cisco Packet Tracer (Would love advice and tips to make it better)
